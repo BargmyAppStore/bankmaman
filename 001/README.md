@@ -1,6 +1,4 @@
-# Bank Maman
-
-- Dr.Creeper
+# Bank Maman - Dr.Creeper
 
 **Money : 9b$**
 
